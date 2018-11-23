@@ -1,0 +1,6 @@
+if BOARD_MSC02_ICESTORM
+
+config BOARD
+	default "msc02_icestorm"
+
+endif

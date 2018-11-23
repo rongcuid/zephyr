@@ -1,0 +1,3 @@
+config BOARD_MSC02_ICESTORM
+	bool "MadScientistCarl implementation 02 on ICESTORM"
+	depends on SOC_RISCV32_MSC02
