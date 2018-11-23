@@ -34,7 +34,7 @@ config RISCV_ROM_BASE_ADDR
 
 config RISCV_ROM_SIZE
 	hex
-	default 0x6000
+	default 0x3C00
 
 config RISCV_RAM_BASE_ADDR
 	hex
